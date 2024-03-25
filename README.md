@@ -41,4 +41,4 @@ Place your `.csv` and `.json` data files in the `models` directory. The script w
 Run the script using Python:
 
 ```bash
-python script_name.py
+python NeuralNetworksApp.py
