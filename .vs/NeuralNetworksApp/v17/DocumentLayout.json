@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ali\\source\\repos\\NeuralNetworksApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13BB6B69-625F-45ED-A213-C8470F791EC1}|NeuralNetworksApp\\NeuralNetworksApp.pyproj|C:\\Users\\Ali\\source\\repos\\NeuralNetworksApp\\NeuralNetworksApp\\NeuralNetworksApp.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{13BB6B69-625F-45ED-A213-C8470F791EC1}|NeuralNetworksApp\\NeuralNetworksApp.pyproj|solutionrelative:NeuralNetworksApp\\NeuralNetworksApp.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NeuralNetworksApp.py",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\NeuralNetworksApp\\NeuralNetworksApp\\NeuralNetworksApp.py",
+              "RelativeDocumentMoniker": "NeuralNetworksApp\\NeuralNetworksApp.py",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\NeuralNetworksApp\\NeuralNetworksApp\\NeuralNetworksApp.py*",
+              "RelativeToolTip": "NeuralNetworksApp\\NeuralNetworksApp.py*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-03-17T03:57:45.514Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
