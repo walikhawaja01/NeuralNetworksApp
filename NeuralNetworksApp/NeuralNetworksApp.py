@@ -9,7 +9,7 @@ from sklearn.metrics import mean_squared_error
 from collections import Counter
 import re
 
-models_path = 'C:\\Users\\Ali\\source\\repos\\NeuralNetworksApp\\NeuralNetworksApp\\models\\'
+models_path = 'REPLACE-WITH-YOUR-MODELS'
 video_data_combined = pd.DataFrame()
 category_dict = {}
 
