@@ -15,7 +15,7 @@ This project is focused on analyzing YouTube video data to extract insights such
 1. Clone the repository to your local machine.
 
     ```bash
-    git clone <repository-url>
+    git clone <https://github.com/walikhawaja01/NeuralNetworksApp.git>
     ```
 
 2. Navigate to the cloned repository.
