@@ -9,7 +9,7 @@ from sklearn.metrics import mean_squared_error
 from collections import Counter
 import re
 
-models_path = 'REPLACE-WITH-YOUR-MODELS'
+models_path = 'REPLACE-WITH-YOUR-MODEL'
 video_data_combined = pd.DataFrame()
 category_dict = {}
 
@@ -58,7 +58,7 @@ date_analysis['views'] = date_analysis['views'].apply(lambda x: "{:.2f}".format(
 
 print("\naverage number of views that videos received in each month: \n", date_analysis)
 
-print("\n---------------------------------------------------")
+print("\n-----------------------------------------------------")
 
 # Combine all tags into a single list
 all_tags = video_data_combined['tags'].str.cat(sep='|').split('|')
@@ -71,7 +71,7 @@ most_common_tags = tag_counts.most_common(20)
 print("\nMost Common Tags:\n", most_common_tags)
 
 
-print("\n--------------------------------------------------")
+print("\n----------------------------------------------------")
 
 # Sort by views or likes
 top_titles_by_views = video_data_combined.sort_values(by='views', ascending=False)[['title', 'views']].head(20)
